@@ -1,6 +1,6 @@
 # Flutter Ship App
 
-This is the companion app for my course about Flutter in production.
+This is the companion app for Andrea's course about Flutter in production.
 
 You can preview the app here:
 
