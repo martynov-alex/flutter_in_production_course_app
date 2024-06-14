@@ -55,3 +55,8 @@ flutter_launcher_icons:
   web:
     generate: true
     image_path: "assets/common/app-icon.png"
+
+# Flutter Native Splash configuration
+flutter_native_splash:
+  color: "#ffffff"
+  image: "assets/android/app-icon-foreground.png"
