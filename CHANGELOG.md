@@ -1,3 +1,16 @@
+## 0.1.7
+
+- Update Drift connection to use LazyDatabase (fixes app startup issue)
+
+## 0.1.6
+
+- Add Android adaptive icons
+- Fix app startup issue due to missing asset in root bundle
+
+## 0.1.5
+
+- Updated app icon
+
 ## 0.1.4
 
 - Small fixes for the app editing logic
